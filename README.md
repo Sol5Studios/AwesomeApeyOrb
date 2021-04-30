@@ -1,2 +1,2 @@
 # AwesomeApeyOrb
-The APK file for the VR game Awesome Apey Orb
+APK for the VR game Awesome Apey Orb
